@@ -1,0 +1,15 @@
+C:\WorkProgramm\HomeWork_1_2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+C:\WorkProgramm\HomeWork_1_2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+C:\WorkProgramm\HomeWork_1_2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+C:\WorkProgramm\HomeWork_1_2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+C:\WorkProgramm\HomeWork_1_2\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+C:\WorkProgramm\HomeWork_1_2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\WorkProgramm\HomeWork_1_2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\WorkProgramm\HomeWork_1_2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\WorkProgramm\HomeWork_1_2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+C:\WorkProgramm\HomeWork_1_2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\WorkProgramm\HomeWork_1_2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+C:\WorkProgramm\HomeWork_1_2\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+C:\WorkProgramm\HomeWork_1_2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+C:\WorkProgramm\HomeWork_1_2\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+C:\WorkProgramm\HomeWork_1_2\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
